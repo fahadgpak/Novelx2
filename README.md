@@ -1,4 +1,4 @@
-# Novelx2
+# Novelx
 I want to creat an app
 EPUB import
 EPUB library
